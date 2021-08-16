@@ -8,6 +8,7 @@
 ![Alt Text](https://github.com/EganSatya18/Latihan-CSS-Responsive/blob/main/CSS%20Responsive%20Latihan%204.png)
 ![Alt Text](https://github.com/EganSatya18/Latihan-CSS-Responsive/blob/main/CSS%20Responsive%20Latihan%204(2).png)
 # Latihan-CSS-Responsive Latihan 5
-![Alt Text](https://github.com/EganSatya18/Latihan-CSS-Responsive/blob/main/CSS%20Responsive%20Latihan%201.png)
+![Alt Text](https://github.com/EganSatya18/Latihan-CSS-Responsive/blob/main/CSS%20Responsive%20Latihan%205.png)
+![Alt Text](https://github.com/EganSatya18/Latihan-CSS-Responsive/blob/main/CSS%20Responsive%20Latihan%205(2).png)
 # Latihan-CSS-Responsive Latihan 6
-![Alt Text](https://github.com/EganSatya18/Latihan-CSS-Responsive/blob/main/CSS%20Responsive%20Latihan%201.png)
+![Alt Text](https://github.com/EganSatya18/Latihan-CSS-Responsive/blob/main/CSS%20Responsive%20Latihan%206.png)
